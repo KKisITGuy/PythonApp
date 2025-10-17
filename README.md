@@ -1,4 +1,4 @@
-# Python App
+# Python DB App
 
 1. Download Python from Python.org
 2. Install Python (Include pip)
